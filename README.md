@@ -1,5 +1,5 @@
 # pfctl notes
-* You can get some useful info from the man file:
+* You can get some useful info from the man page for pf.conf:
 ```
 man pf.conf
 ```
